@@ -23,6 +23,10 @@ function App() {
     <img src="./A7.png" alt="" />
     <img src="./A8.png" alt="" />
     <img src="./A9.png" alt="" />
+
+    <br></br>
+      <a href='https://docs.google.com/forms/d/e/1FAIpQLSdHwivnu3OlWTdcWZr_BdZOgnPsiLfLbNNGI8HhCu1kwojiQw/viewform?usp=publish-editor'> Rate our prototype here </a>
+    
     </>
     
     : 
@@ -38,16 +42,11 @@ function App() {
     <img src="./b7.png" alt="" />
     <img src="./b8.png" alt="" />
     <img src="./b9.png" alt="" />
-    </> }
 
-      <form action="">
-        <input type="radio" name='eva' value="1"/> <label htmlFor="1"> 1 </label>
-        <input type="radio" name='eva' value="2"/> <label htmlFor="2"> 2 </label>
-        <input type="radio" name='eva' value="3"/> <label htmlFor="3"> 3 </label>
-        <input type="radio" name='eva' value="4"/> <label htmlFor="4"> 4 </label>
-        <input type="radio" name='eva' value="5"/> <label htmlFor="5"> 5 </label>
-        <input type="submit" value="Send evaluation" />
-      </form>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLSd3mug-0bwhaxMTJRbD6TsQRp-Qxq2AQDboZpBLJO0Clxia5Q/viewform?usp=publish-editor'> Rate our prototype here </a>
+    </> }
+    
+    <p>Please rate our prototype on scale 1-5 (1 worst, 5 best)</p>
 
       <br />
 
